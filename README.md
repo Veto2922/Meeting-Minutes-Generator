@@ -1,6 +1,10 @@
 # 📝 Meeting Minutes Generator
 
-Generate professional meeting minutes from YouTube videos or local audio/video files using Gemini AI.
+Generate professional meeting minutes from YouTube videos or local audio/video files.
+
+![image](https://github.com/user-attachments/assets/df0e75b2-e57d-4e9d-ad8d-67b5fd54d984)
+
+
 
 ## Features
 - 🎥 Transcribe audio from YouTube videos or uploaded files (mp3, wav, mp4, m4a)
